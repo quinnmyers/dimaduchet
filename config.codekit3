@@ -1284,6 +1284,27 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/assets\/images\/fonts\/futura-bold.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/fonts\/futura-bold.ttf",
+		"oF": 0
+		},
+	"\/assets\/images\/fonts\/futura-medium.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/fonts\/futura-medium.ttf",
+		"oF": 0
+		},
+	"\/assets\/images\/fonts\/proximanova.ttf": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/images\/fonts\/proximanova.ttf",
+		"oF": 0
+		},
 	"\/assets\/js\/app-min.js": {
 		"ft": 64,
 		"ma": 0,
@@ -1362,7 +1383,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 517294173,
-	"displayValue": "_base_project",
+	"displayValue": "dimaduchet",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-daenerys",
 	"iconImageWasSetByUser": 0

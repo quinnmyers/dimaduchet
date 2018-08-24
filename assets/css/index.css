@@ -50,5 +50,17 @@ a {
   text-decoration: none;
   color: inherit; }
 
+@font-face {
+  font-family: Futura-Medium;
+  src: url(../images/fonts/futura-medium.ttf); }
+
+@font-face {
+  font-family: Futura-Bold;
+  src: url(../images/fonts/futura-bold.ttf); }
+
+@font-face {
+  font-family: Proxima-Nova;
+  src: url(../images/fonts/proximanova.ttf); }
+
 body {
   font-family: 'Hind', Helvetica, 'Helvetica Neue', sans-serif; }
